@@ -136,7 +136,7 @@
 }
 .articale-blog img:hover{
     transform: scale(1.10);
-    transition: 1s ease 2s;
+    transition: 1s;
     border-radius: 10px;
     
 }
