@@ -190,8 +190,20 @@ video section css start
     grid-gap: 5px;
     align-items: center;
     justify-content: center;
+   
     
 }
+.video-section h1{
+    align-items: left;
+}
+.video-section{
+    display: flex;
+    flex-direction: column;
+   
+    justify-content: space-between;
+}
+
+
 .video video{
     border-radius: 10px;
     box-shadow: 10px 10px 8px 10px #dad4d4;
