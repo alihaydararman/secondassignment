@@ -178,6 +178,29 @@
  ..................... */
 
 
+/* ......................
+video section css start
+   ..................... */
+.video-section{
+    margin-bottom: 100px;
+}
+.vedio-blog{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.video video{
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px 10px #dad4d4;
+
+}
+/* ......................
+video section css start
+   ..................... */
+
  .footer-section{
      display: grid;
      grid-template-columns: repeat(1, 1fr);
