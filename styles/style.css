@@ -59,7 +59,7 @@
 }
 
 .button-header-right img:hover{
-    transform: scale(1.05);
+    transform: scale(1.15);
     transition: 1s;
 }
   .button-header{
@@ -81,6 +81,7 @@
   .button-header-right img{
       width: 556.01px;
       height: 438px;
+      margin-top: 20px;
   }
 
 /*...................
@@ -135,8 +136,9 @@
 }
 .articale-blog img:hover{
     transform: scale(1.10);
-    transition: 1s;
+    transition: 1s ease 2s;
     border-radius: 10px;
+    
 }
 .articale-blog p{
     color: rgb(170, 160, 160);
@@ -184,6 +186,13 @@
      height: 100px;
  }
 
+.footer-mid i{
+    background-color: gray;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 5px;
+}
 
 
 
